@@ -1,5 +1,5 @@
 # Hola 💬
-![logo1]([https://github.com/Dreyuix/Dreyuix/assets/65123134/b610ada7-e668-44b9-80db-f3d030bb970b](https://img.freepik.com/foto-gratis/experiencia-programacion-persona-que-trabaja-codigos-computadora_23-2150010125.jpg?w=1380&t=st=1727836402~exp=1727837002~hmac=1b4b9b4591b1dbae66790050505cc8f071265875748cd27af68ade5eaf4051d6))
+![logo1](https://github.com/Dreyuix/Dreyuix/assets/65123134/b610ada7-e668-44b9-80db-f3d030bb970b)
 
 Soy un ingeniero de software apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
 
